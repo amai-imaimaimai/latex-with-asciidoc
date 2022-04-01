@@ -1,6 +1,6 @@
 = OK, Let's LateX!!
 :author: imaimaimai
 
-:stem: latexmath
+:stem: asciimath
 
-Water (stem:[20^{x}]) is a critical component.
+Water (stem:[H_2O]) is a critical component.
