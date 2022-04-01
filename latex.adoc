@@ -1,0 +1,6 @@
+= OK, Let's LateX!!
+:author: imaimaimai
+
+:stem: latexmath
+
+Water (stem:[20^{x}]) is a critical component.
