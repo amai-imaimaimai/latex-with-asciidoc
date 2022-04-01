@@ -1,12 +1,15 @@
-= OK, Let's LateX!!
+= OK, Let's LaTeX!!
 :author: imaimaimai
 
 :stem: latexmath
 
-Water (stem:[H_2O]) is a critical component.
+// inline
+水(stem:[H_2O])は不可欠な成分である。
 
+// block
 \[H_20\]
 
+// multiline block
 \[
-    e^{2\pi \sqrt{-1}} = 1,
+    \cos(2\theta)
 \]
